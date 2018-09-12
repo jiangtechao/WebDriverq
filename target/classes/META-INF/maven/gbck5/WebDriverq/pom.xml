@@ -10,7 +10,6 @@
   <name>WebDriverq</name>
   <url>http://maven.apache.org</url>
 
-
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
@@ -29,7 +28,7 @@
     <artifactId>allure-testng</artifactId>
     <version>2.6.0</version>
 </dependency>
-
+    
     
     <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
@@ -37,7 +36,10 @@
     <artifactId>selenium-java</artifactId>
     <version>2.44.0</version>
 </dependency>
+    
+    
 
+    
     
     <!-- https://mvnrepository.com/artifact/org.testng/testng -->
 <dependency>
@@ -45,33 +47,10 @@
     <artifactId>testng</artifactId>
     <version>6.9.10</version>
     <scope>test</scope>
-    </dependency>
+</dependency>
   </dependencies>
 
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <configuration>
-                    <encoding>UTF-8</encoding>
-                </configuration>
-            </plugin>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-surefire-plugin</artifactId>
-                <version>2.20</version>
-                <configuration>
-                    <!--<testFailureIgnore>true</testFailureIgnore>-->
-                    <suiteXmlFiles>
-                        <suiteXmlFile>testng.xml</suiteXmlFile>
-                        <!--此处testng.xml即为要运行的testng.xml文件-->
-                    </suiteXmlFiles>
-                </configuration>
-            </plugin>
-        </plugins>
-    </build>
 
-
-
+	
+  
 </project>

@@ -45,7 +45,8 @@ public class shouhuoTest {
 
 	  WebDriverWait wait2 = new WebDriverWait(driver,10,1);
 	  wait2.until(new ExpectedCondition<WebElement>(){
-		  public WebElement apply(WebDriver text) { return text.findElement(By.linkText("审核"));
+		  public WebElement apply(WebDriver text) {
+		  	return text.findElement(By.linkText("审核"));
 		  }
 	  }).click();
 
@@ -66,32 +67,41 @@ public class shouhuoTest {
 	  Thread.sleep(2000);
 	  driver.findElement(By.linkText("上传")).click();
 	  Thread.sleep(2000);
-	  driver.findElement(By.xpath(".//*[@id='logo_file']")).sendKeys("D:\\图片\\index.jpeg");
-	  	//隐式等待6S
-	  driver.manage().timeouts().implicitlyWait(8, TimeUnit.SECONDS);
-	  driver.findElement(By.xpath(".//*[@id='save_img']")).click();
+
+		  driver.findElement(By.xpath(".//*[@id='logo_file']")).sendKeys("D:\\图片\\index.jpeg");
+	  	Thread.sleep(7000);
+
+		  driver.findElement(By.linkText("保存")).click();
+		Thread.sleep(9000);
+		driver.findElement(By.linkText("提交财务审核")).click();
+
+	  Thread.sleep(7000);
 
 
-	  driver.findElement(By.xpath(".//*[@id='financial_id']/label")).click();
-	  Thread.sleep(2000);
-	  driver.findElement(By.xpath(".//*[@id='layui-layer1']/div[3]/a[1]")).click();
-	  Thread.sleep(2000);
+	  //driver.switchTo().alert().accept();
+
+	  driver.findElement(By.linkText("确认")).click();
+	  Thread.sleep(5000);
 	  driver.findElement(By.linkText("财务审核列表")).click();
-	  WebDriverWait wait4 = new WebDriverWait(driver,10,1);
-	  wait4.until(new ExpectedCondition<WebElement>(){
+
+	  WebDriverWait wait6 = new WebDriverWait(driver,10,1);
+	  wait6.until(new ExpectedCondition<WebElement>(){
 		  public WebElement apply(WebDriver text) { return text.findElement(By.linkText("通过"));
 		  }
 	  }).click();
-
-	  driver.findElement(By.linkText("确认")).click();
+	  Thread.sleep(3000);
+	  driver.findElement(By.id("btn-ensure-confirm")).click();
+	  Thread.sleep(4000);
 	  driver.findElement(By.linkText("供货管理列表")).click();
-	  Thread.sleep(2000);
+	  Thread.sleep(4000);
 	  			String title4 = driver.getTitle();
 	  			Assert.assertEquals("隔壁仓库 V1.1.2 - 已确认的采购单",title4);
 	  driver.findElement(By.linkText("推送订单")).click();
+	  Thread.sleep(4000);
 	  driver.findElement(By.xpath(".//*[@id='omsWarehouseCode']")).sendKeys("5182");
-	  driver.findElement(By.linkText("确认")).click();
-	  Thread.sleep(6000);
+	  Thread.sleep(4000);
+	  driver.findElement(By.id ("btn-ensure-confirm")).click();
+	  Thread.sleep(5000);
 	  driver.navigate().refresh();
 
   }

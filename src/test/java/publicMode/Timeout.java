@@ -2,10 +2,12 @@ package publicMode;
 
 import java.util.concurrent.TimeUnit;
 
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedCondition;
+
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class Timeout {
@@ -23,7 +25,7 @@ public class Timeout {
 
       }
 	
-
+	
 		
 	
 	//通过xpath获取元素清除文本并写入

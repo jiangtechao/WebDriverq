@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1537088208941" stop="1537088351438" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : WebDriverq</name>
+    <title>Default Suite : WebDriverq</title>
+    <test-cases>
+        <test-case start="1537088233695" stop="1537088256553" status="passed">
+            <name>test</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="WebDriverq"/>
+                <label name="testClass" value="gbckTest.caigouTest"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="DESKTOP-1KEC5HB"/>
+                <label name="thread" value="3400@DESKTOP-1KEC5HB.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1537088256558" stop="1537088290585" status="passed">
+            <name>tianjiashangpin</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="WebDriverq"/>
+                <label name="testClass" value="gbckTest.sizeyouhuiquanTest"/>
+                <label name="testMethod" value="tianjiashangpin"/>
+                <label name="host" value="DESKTOP-1KEC5HB"/>
+                <label name="thread" value="3400@DESKTOP-1KEC5HB.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1537088290588" stop="1537088349146" status="passed">
+            <name>testsuit</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="WebDriverq"/>
+                <label name="testClass" value="gbckTest.vipaddTest"/>
+                <label name="testMethod" value="testsuit"/>
+                <label name="host" value="DESKTOP-1KEC5HB"/>
+                <label name="thread" value="3400@DESKTOP-1KEC5HB.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

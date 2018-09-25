@@ -2,169 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ffc6974-4103-4779-8df7-c5b67e6eb18b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/18217.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure2_model_api_1_0_BETA6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure2_model_jackson_1_0_BETA6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure2_model_pojo_1_0_BETA6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_descriptions_javadoc_2_6_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_java_commons_2_6_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_testng_2_6_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jooq_joor_0_9_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/gbckTest/pandianTest.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_10.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/WebDriverq.iml" afterPath="$PROJECT_DIR$/WebDriverq.iml" />
-      <change beforePath="$PROJECT_DIR$/allure-results/02c649b0-e211-4471-acc4-5c60865cc067-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/036b9f9e-4e4b-4d79-a7de-2da8759a3ee0-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/03fde74c-80c4-43e0-84a9-a134452448ba-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/0c659b5c-3f3f-481c-854f-c98a75978726-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/0fb108ed-e524-4b69-aa59-44b3cd8edd4a-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/14167602-aa25-4ae6-b5be-331d817baa86-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/16c12c33-7619-4f75-bd0f-5f07a70e1aed-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2449e4dd-d43c-4809-ab5c-33e912e3ba2e-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/25af5cf0-56b0-4c4a-93a5-97a10b0c2e5f-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/298195b8-5e62-429d-85c2-965ac0551f6c-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2a16ba4d-9212-492d-b4e7-a27b395e5ffb-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2bfb8e1b-7f8b-4a61-ac77-1dc7813f6abe-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2c83e51d-dce4-44ed-986b-b8fbd7b3a323-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2ea5eeeb-3566-446b-8507-e799dcdaa5a1-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/3071641f-0cd6-461e-9f44-b8d2d1a64fc5-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/34beb14e-6216-4cf2-9f35-78083a2d2035-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/34f96fc2-0bae-41a9-97fc-6bd49d0b5faf-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/39d78945-b4ce-42b9-ac94-ec9a34900e87-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/3f902aee-d93f-4126-b7c8-bc887321b845-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/42509086-7646-4379-91cf-cfaccb1a4967-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/4290fd69-0a5c-4e3e-a0fe-488bb1567b62-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/44d247c3-c745-4d5a-af72-3720e261643b-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/4713bd6b-fabe-4032-bfed-0f7dc0a8e9db-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/48c1e75e-aaf1-4899-83ba-216c2251df14-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/498f142d-ba15-4828-88e5-1b99065afb32-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/4a761ce8-f38e-4ba5-9c8b-7289441db36f-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/4c47640b-7582-4876-87c0-9bc053ac0af5-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/4dad1923-823a-4328-a9c1-9c0b72da545f-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/4ec37ced-8ee8-41bc-985f-2eec189d9b19-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/50c9a19a-ec55-4b37-a061-6aa4d8a21af0-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/535476d8-e838-4fb7-aa1c-bdf627196d9d-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/555e0e51-4030-4601-ac43-4e515ab998ee-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/56b19bb0-1afe-4c72-9819-89ffe31a9ca1-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/58fc8331-ad6c-40c2-84b3-9e1d38641468-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/5aceab4e-c4e5-458d-83c3-2e3709b00c14-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/5b91149d-d780-4df7-802b-5971a62998ca-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/5f8b7411-002d-49c4-b7f7-f811ae0172cf-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/65784e4b-657c-42cb-ab56-46731f6dd695-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/659eb4b5-4bcd-4111-bb9a-8698929be97a-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/67631dbc-3498-44c9-b44f-2644ac2cd3d2-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/678924ff-da64-4119-818e-93c94ee9f483-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/74f46867-39a2-4fc8-95cf-259c54da6f0d-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7548c4df-e3c9-4a24-a29a-5251f0f119a0-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7939ab55-c497-48a7-bbef-435491490994-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/794f3b68-f50b-4779-ba80-2b4787e62b9c-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/79ba9325-f1d6-41dd-8f9e-3858bd0e3cc5-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7ed921d0-737a-4cda-bfc9-68c4f579d2fa-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7fc31d11-2b25-4e24-a57e-523d92828aa4-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8292ac38-d896-4f59-bd99-499182edfb00-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/86c6138a-b7f8-4515-b5b3-937857397e4f-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8995582f-5213-420a-a5e4-90f562574413-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8b1858f3-feee-419e-939a-dd5c8c5b2bca-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8e656163-8ca4-4943-9faf-c2a60e8dd645-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8ec601ea-92f2-47ac-b3a3-ed7181d9f567-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/9176da09-5e0b-495a-bb13-432ed9215c5e-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/92071c80-9fb5-4b4b-a15c-6de9697ad318-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/97a9547c-97c5-4965-ba15-8526cad0af09-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/9e731ecc-b441-4c77-aeb4-719a2977b992-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/9f6fdcc4-1c74-4723-8b7b-41e1982866e8-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a011c3ab-623a-4c86-a4a9-0d1a6814cbbf-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a12047e6-43c7-4e6a-84ae-40d20b2440b2-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a2bb6301-170c-419b-bfb5-383676c1812a-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a33e2809-bceb-45ab-a8c2-c5cc581c7e74-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a8218761-def5-44ac-85d7-ba15d0f40ff7-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/aa546598-85d3-499f-a5f7-7ee63d4adf3f-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/aaaa595f-5745-418d-a012-8beb55ae6b18-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ad8c357a-7502-4887-965e-5d7aaf3f3780-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/addb95a7-3010-498e-a609-51e2f2981b9d-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/aff112f9-474b-440f-a576-9fe37d4851a1-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b0263a5b-5089-4d3b-934e-ba36d714d6b4-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b50250a2-e69b-43cb-83b1-2475adb06d8c-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b67a51ed-713e-4697-b98d-a4739ff28b3d-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b6db1be4-4952-4f36-89f8-d65cb15cba9b-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b71075e8-0066-45d4-a46a-c331c8182b9a-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b71ca1cd-bdfc-4a18-9118-6f04ea717c34-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b819a6be-bf20-412c-a4eb-6faebf9bb9cc-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b830f153-463f-4352-950c-fe744a937d43-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/bd05cfd5-b06c-4d6e-8c60-c0e9f56a9dab-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/bf95044c-5fa7-48cd-ad7a-0d820e99fd1f-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c056cd20-61f3-469e-b732-49b76a9bf6f8-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c1bc98f8-1300-4c3c-b2b4-6e6d3560924a-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c26f941c-92a4-47b7-b930-c39d620ea492-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c48a75f1-32a1-4f5c-8330-9fe22250071f-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c4ce5870-c570-48d4-9c8e-d787a28284ac-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c6931f9c-8e26-44f2-90c4-a54019b40550-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c85c255c-963f-49e1-9823-47f28be29e9b-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c8f5869a-00b1-49ed-b9ce-8c58e55425b2-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/cc8e7857-5ad4-4d46-ac86-e160ad291626-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d16b9669-99b2-4fc1-a3c8-e5e5aa86b7cd-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d28d6928-224d-4d97-9263-db91e8bce79a-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d39e153d-62c4-4b97-a05e-d09733d9c72a-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d43176d6-2007-48f2-9c33-5f87f1df088f-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/dad38ec5-fb10-44f7-8e35-b35be5172eb7-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/dce43542-e566-4f95-adc8-de6bd25853f1-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/dd565c9c-9c46-4c75-84f7-3ac886ed64a9-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e61f3874-6e04-45e5-b282-97339fba4b30-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e7f75147-3582-49ae-8450-8b7b81965f9e-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e8762e74-8e96-4211-a03f-bbe551ad6829-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ebe45ccf-19c3-43f7-b66d-2a97219fb23f-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/edc69507-1391-472c-a0ea-ed82a7823bf6-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/eeecc353-8a3a-42bf-b605-a9a4cec5702b-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f02179b9-9333-4f68-8d24-e803654febe4-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f07d78fb-b82e-4f8c-bb79-2990f39500da-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f577f216-518d-4082-addf-52b3ec924942-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f6895a99-2baf-45bb-8fab-71a987a4b035-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f91a8c7a-b03a-403f-906d-8e7a955e1273-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/fa6e89e2-ff33-46cc-a158-a164b86feb6d-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/faca164a-0a99-4850-87c6-e923abf94af4-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/fcce51ec-b997-4045-b2da-5b0fcb4274d2-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/fceb5a9d-4f58-4109-bd34-c811b736c9c8-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/fd889032-c177-4146-9f87-5f5f5320a99c-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/fd8943f1-58ec-4834-8f6b-af5374d36645-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/fe385fd3-241b-40f0-97d4-a90cff2de7e7-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/fe4957e9-3e0f-4fe3-859b-07d756c00dc1-container.json" afterPath="" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/gbckTest/sizeyouhuiquanTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/allure.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/env.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/allure.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/env.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/gbckTest/sizeyouhuiquanTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/WebDriverq.html" afterPath="$PROJECT_DIR$/test-output/Default Suite/WebDriverq.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/WebDriverq.xml" afterPath="$PROJECT_DIR$/test-output/Default Suite/WebDriverq.xml" />
-      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" afterPath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" />
-      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/index.html" afterPath="$PROJECT_DIR$/test-output/index.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-gbckTest.caigouTest.xml" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-gbckTest.caigouTest.xml" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-gbckTest.shouhuoTest.xml" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-gbckTest.shouhuoTest.xml" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-gbckTest.sizeyouhuiquanTest.xml" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-gbckTest.sizeyouhuiquanTest.xml" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-gbckTest.vipaddTest.xml" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-gbckTest.vipaddTest.xml" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" afterPath="$PROJECT_DIR$/test-output/old/index.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -197,8 +37,8 @@
       <file leaf-file-name="caigouTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/gbckTest/caigouTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+            <state relative-caret-position="0">
+              <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
               <folding>
                 <element signature="e#3322#3323#0" expanded="true" />
                 <element signature="e#3351#3352#0" expanded="true" />
@@ -224,14 +64,14 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+            <state relative-caret-position="293">
+              <caret line="108" column="38" lean-forward="false" selection-start-line="108" selection-start-column="38" selection-end-line="108" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vipaddTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="vipaddTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/gbckTest/vipaddTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -241,7 +81,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sizeyouhuiquanTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/gbckTest/sizeyouhuiquanTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="e#3224#3225#0" expanded="true" />
+                <element signature="e#3253#3254#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -295,8 +148,8 @@
         <option value="$PROJECT_DIR$/src/test/java/gbckTest/shanghuaddTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/gbckTest/pandianTest.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/gbckTest/sizeyouhuiquanTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -324,7 +177,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -365,10 +218,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -402,10 +251,19 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gbckTest" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="WebDriverq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebDriverq" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -436,7 +294,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.testng">
+  <component name="RunManager" selected="TestNG.&lt;default&gt; (2)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -611,7 +469,61 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="&lt;default&gt;" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="&lt;default&gt; (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="WebDriverq" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="&lt;default&gt; (3)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="WebDriverq" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="&lt;default&gt; (4)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="WebDriverq" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -697,70 +609,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="pandianTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="gbckTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="WebDriverq" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="gbckTest" />
-      <option name="MAIN_CLASS_NAME" value="gbckTest.pandianTest" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="pandianTest.pandian" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="gbckTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="WebDriverq" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="gbckTest" />
-      <option name="MAIN_CLASS_NAME" value="gbckTest.pandianTest" />
-      <option name="METHOD_NAME" value="pandian" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration name="testng" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="WebDriverq" />
@@ -800,19 +648,19 @@
       <item index="2" class="java.lang.String" itemvalue="TestNG.C:/用户/18217/workspace/WebDriverq/target/testng.xml" />
       <item index="3" class="java.lang.String" itemvalue="TestNG.testng" />
       <item index="4" class="java.lang.String" itemvalue="TestNG. C:\用户\18217\workspace\WebDriverq\src\test\java\testng.xml" />
-      <item index="5" class="java.lang.String" itemvalue="TestNG.&lt;default&gt;" />
-      <item index="6" class="java.lang.String" itemvalue="TestNG.caigouTest" />
-      <item index="7" class="java.lang.String" itemvalue="TestNG.pandianTest" />
-      <item index="8" class="java.lang.String" itemvalue="TestNG.pandianTest.pandian" />
-      <item index="9" class="java.lang.String" itemvalue="TestNG.&lt;default&gt; (1)" />
+      <item index="5" class="java.lang.String" itemvalue="TestNG.caigouTest" />
+      <item index="6" class="java.lang.String" itemvalue="TestNG.&lt;default&gt; (3)" />
+      <item index="7" class="java.lang.String" itemvalue="TestNG.&lt;default&gt; (4)" />
+      <item index="8" class="java.lang.String" itemvalue="TestNG.&lt;default&gt; (1)" />
+      <item index="9" class="java.lang.String" itemvalue="TestNG.&lt;default&gt; (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.&lt;default&gt; (1)" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.pandianTest" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.pandianTest.pandian" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.caigouTest" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.&lt;default&gt;" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.&lt;default&gt; (2)" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.&lt;default&gt; (1)" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.caigouTest" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.&lt;default&gt; (4)" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.&lt;default&gt; (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -863,25 +711,30 @@
       <workItem from="1537516656128" duration="5483000" />
       <workItem from="1537582734542" duration="1863000" />
       <workItem from="1537760337081" duration="82000" />
-      <workItem from="1537838897207" duration="80000" />
+      <workItem from="1537838897207" duration="1308000" />
+      <workItem from="1537840720933" duration="1132000" />
+      <workItem from="1537841943080" duration="293000" />
+      <workItem from="1537842269522" duration="303000" />
+      <workItem from="1537842614186" duration="257000" />
+      <workItem from="1537842915632" duration="545000" />
+      <workItem from="1537843508376" duration="436000" />
+      <workItem from="1537844006102" duration="321000" />
+      <workItem from="1537844677171" duration="1098000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_default__(1) - 2018.09.22 at 10h 56m 25s.xml">
+    <history-entry file="_default__(1) - 2018.09.25 at 11h 05m 35s.xml">
       <configuration name="&lt;default&gt; (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="pandianTest - 2018.09.20 at 17h 18m 42s.xml">
-      <configuration name="pandianTest" configurationId="TestNG" />
+    <history-entry file="_default__(2) - 2018.09.25 at 11h 15m 53s.xml">
+      <configuration name="&lt;default&gt; (2)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="pandianTest - 2018.09.20 at 17h 21m 55s.xml">
-      <configuration name="pandianTest" configurationId="TestNG" />
+    <history-entry file="caigouTest - 2018.09.25 at 10h 57m 24s.xml">
+      <configuration name="caigouTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="pandianTest - 2018.09.20 at 17h 22m 55s.xml">
-      <configuration name="pandianTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="pandianTest - 2018.09.20 at 17h 24m 56s.xml">
-      <configuration name="pandianTest" configurationId="TestNG" />
+    <history-entry file="caigouTest - 2018.09.25 at 10h 57m 58s.xml">
+      <configuration name="caigouTest" configurationId="TestNG" />
     </history-entry>
     <history-entry file="pandianTest - 2018.09.20 at 17h 28m 59s.xml">
       <configuration name="pandianTest" configurationId="TestNG" />
@@ -898,9 +751,12 @@
     <history-entry file="pandianTest_pandian - 2018.09.20 at 17h 13m 57s.xml">
       <configuration name="pandianTest.pandian" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="testng - 2018.09.25 at 10h 21m 51s.xml">
+      <configuration name="testng" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150305000" />
+    <option name="totallyTimeSpent" value="155918000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -912,22 +768,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32784185" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32784185" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14827017" sideWeight="0.49092284" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.184514" sideWeight="0.49092284" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6276771" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27382752" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31013617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -939,7 +795,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32784185" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -954,14 +809,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/target/test-classes/gbckTest/caigouTest.class</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
@@ -1113,13 +960,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/gbckTest/caigouTest.java">
+    <entry file="file://$PROJECT_DIR$/WebDriverq.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        <state relative-caret-position="-2775">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-results/0c659b5c-3f3f-481c-854f-c98a75978726-container.json" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/gbckTest/vipaddTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="20" column="35" lean-forward="false" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/gbckTest/sizeyouhuiquanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="e#3322#3323#0" expanded="true" />
-            <element signature="e#3351#3352#0" expanded="true" />
+            <element signature="e#3224#3225#0" expanded="true" />
+            <element signature="e#3253#3254#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1136,35 +999,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebDriverq.iml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/gbckTest/caigouTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2775">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding>
+            <element signature="e#3322#3323#0" expanded="true" />
+            <element signature="e#3351#3352#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/allure-results/0c659b5c-3f3f-481c-854f-c98a75978726-container.json" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        <state relative-caret-position="293">
+          <caret line="108" column="38" lean-forward="false" selection-start-line="108" selection-start-column="38" selection-end-line="108" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/gbckTest/sizeyouhuiquanTest.java" />
     <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="51" lean-forward="false" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/gbckTest/vipaddTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="20" column="35" lean-forward="false" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
           <folding />
         </state>
       </provider>

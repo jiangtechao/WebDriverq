@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>WebDriverq</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>2/2/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>3/2/0</td>
 </tr><tr>
-<td>Started on:</td><td>Mon Sep 17 16:36:51 CST 2018</td>
+<td>Started on:</td><td>Thu Sep 20 10:39:27 CST 2018</td>
 </tr>
-<tr><td>Total time:</td><td>136 seconds (136819 ms)</td>
+<tr><td>Total time:</td><td>179 seconds (179782 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -76,41 +76,36 @@ function toggleAllBoxes() {
 </tr>
 <tr>
 <td title='gbckTest.shouhuoTest.shouhuo()'><b>shouhuo</b><br>Test class: gbckTest.shouhuoTest</td>
-<td><div><pre>org.openqa.selenium.NoSuchElementException: Unable to locate element: {&quot;method&quot;:&quot;link text&quot;,&quot;selector&quot;:&quot;供货管理列表&quot;}
-Command duration or timeout: 2.45 seconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+<td><div><pre>org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 31 milliseconds
 Build info: version: &apos;2.44.0&apos;, revision: &apos;76d78cf323ce037c5f92db6c1bba601c2ac43ad8&apos;, time: &apos;2014-10-23 13:11:40&apos;
 System info: host: &apos;DESKTOP-1KEC5HB&apos;, ip: &apos;192.168.174.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
 Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.0.2, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 17d4d746-7d56-40ef-8f92-670fe89cd8a3
+Session ID: 016c6f59-9ef2-4762-add2-3f98585595ee
 	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
 	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByLinkText(RemoteWebDriver.java:401)
-	at org.openqa.selenium.By$ByLinkText.findElement(By.java:242)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
-	at gbckTest.shouhuoTest.shouhuo(shouhuoTest.java:58)
-Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {&quot;method&quot;:&quot;link text&quot;,&quot;selector&quot;:&quot;供货管理列表&quot;}
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)
+	at gbckTest.shouhuoTest.shouhuo(shouhuoTest.java:39)
+Caused by: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
 Build info: version: &apos;2.44.0&apos;, revision: &apos;76d78cf323ce037c5f92db6c1bba601c2ac43ad8&apos;, time: &apos;2014-10-23 13:11:40&apos;
 System info: host: &apos;DESKTOP-1KEC5HB&apos;, ip: &apos;192.168.174.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;
 Driver info: driver.version: unknown
-	at &lt;anonymous class&gt;.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/18217/AppData/Local/Temp/anonymous6617247868790040658webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:9641:26)
-	at &lt;anonymous class&gt;.FirefoxDriver.prototype.findElement(file:///C:/Users/18217/AppData/Local/Temp/anonymous6617247868790040658webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:9650:3)
-	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/18217/AppData/Local/Temp/anonymous6617247868790040658webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:16)
-	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/18217/AppData/Local/Temp/anonymous6617247868790040658webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11640:7)
-	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/18217/AppData/Local/Temp/anonymous6617247868790040658webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11582:5)
-... Removed 27 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace218002096", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace218002096'><pre>org.openqa.selenium.NoSuchElementException: Unable to locate element: {&quot;method&quot;:&quot;link text&quot;,&quot;selector&quot;:&quot;供货管理列表&quot;}
-Command duration or timeout: 2.45 seconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+	at &lt;anonymous class&gt;.fxdriver.preconditions.visible(file:///C:/Users/18217/AppData/Local/Temp/anonymous4530702842493799102webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:8959:12)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.checkPreconditions_(file:///C:/Users/18217/AppData/Local/Temp/anonymous4530702842493799102webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/18217/AppData/Local/Temp/anonymous4530702842493799102webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/18217/AppData/Local/Temp/anonymous4530702842493799102webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11640:7)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/18217/AppData/Local/Temp/anonymous4530702842493799102webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11582:5)
+... Removed 27 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1623406089", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1623406089'><pre>org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 31 milliseconds
 Build info: version: &apos;2.44.0&apos;, revision: &apos;76d78cf323ce037c5f92db6c1bba601c2ac43ad8&apos;, time: &apos;2014-10-23 13:11:40&apos;
 System info: host: &apos;DESKTOP-1KEC5HB&apos;, ip: &apos;192.168.174.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
 Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.0.2, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 17d4d746-7d56-40ef-8f92-670fe89cd8a3
+Session ID: 016c6f59-9ef2-4762-add2-3f98585595ee
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -118,11 +113,9 @@ Session ID: 17d4d746-7d56-40ef-8f92-670fe89cd8a3
 	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
 	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByLinkText(RemoteWebDriver.java:401)
-	at org.openqa.selenium.By$ByLinkText.findElement(By.java:242)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
-	at gbckTest.shouhuoTest.shouhuo(shouhuoTest.java:58)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)
+	at gbckTest.shouhuoTest.shouhuo(shouhuoTest.java:39)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -146,25 +139,24 @@ Session ID: 17d4d746-7d56-40ef-8f92-670fe89cd8a3
 	at org.testng.TestNG.run(TestNG.java:1024)
 	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
 	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)
-Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {&quot;method&quot;:&quot;link text&quot;,&quot;selector&quot;:&quot;供货管理列表&quot;}
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Caused by: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
 Build info: version: &apos;2.44.0&apos;, revision: &apos;76d78cf323ce037c5f92db6c1bba601c2ac43ad8&apos;, time: &apos;2014-10-23 13:11:40&apos;
 System info: host: &apos;DESKTOP-1KEC5HB&apos;, ip: &apos;192.168.174.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;
 Driver info: driver.version: unknown
-	at &lt;anonymous class&gt;.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/18217/AppData/Local/Temp/anonymous6617247868790040658webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:9641:26)
-	at &lt;anonymous class&gt;.FirefoxDriver.prototype.findElement(file:///C:/Users/18217/AppData/Local/Temp/anonymous6617247868790040658webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:9650:3)
-	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/18217/AppData/Local/Temp/anonymous6617247868790040658webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:16)
-	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/18217/AppData/Local/Temp/anonymous6617247868790040658webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11640:7)
-	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/18217/AppData/Local/Temp/anonymous6617247868790040658webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11582:5)
+	at &lt;anonymous class&gt;.fxdriver.preconditions.visible(file:///C:/Users/18217/AppData/Local/Temp/anonymous4530702842493799102webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:8959:12)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.checkPreconditions_(file:///C:/Users/18217/AppData/Local/Temp/anonymous4530702842493799102webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/18217/AppData/Local/Temp/anonymous4530702842493799102webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/18217/AppData/Local/Temp/anonymous4530702842493799102webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11640:7)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/18217/AppData/Local/Temp/anonymous4530702842493799102webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11582:5)
 </pre></div></td>
-<td>27</td>
-<td>gbckTest.shouhuoTest@55731ccd</td></tr>
+<td>11</td>
+<td>gbckTest.shouhuoTest@565030b7</td></tr>
 <tr>
 <td title='gbckTest.vipaddTest.testsuit()'><b>testsuit</b><br>Test class: gbckTest.vipaddTest</td>
 <td><div><pre>java.lang.AssertionError: expected [隔壁仓库 V1.1.2 - 会员添加] but found [隔壁仓库 V1.1.2 - 会员列表]
 	at gbckTest.vipaddTest.testsuit(vipaddTest.java:47)
-... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1342958495", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1342958495'><pre>java.lang.AssertionError: expected [隔壁仓库 V1.1.2 - 会员添加] but found [隔壁仓库 V1.1.2 - 会员列表]
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace992132269", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace992132269'><pre>java.lang.AssertionError: expected [隔壁仓库 V1.1.2 - 会员添加] but found [隔壁仓库 V1.1.2 - 会员列表]
 	at org.testng.Assert.fail(Assert.java:94)
 	at org.testng.Assert.failNotEquals(Assert.java:496)
 	at org.testng.Assert.assertEquals(Assert.java:125)
@@ -195,8 +187,8 @@ Driver info: driver.version: unknown
 	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
 	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)
 </pre></div></td>
-<td>18</td>
-<td>gbckTest.vipaddTest@41935a9d</td></tr>
+<td>21</td>
+<td>gbckTest.vipaddTest@2eb31735</td></tr>
 </table><p>
 <table width='100%' border='1' class='invocation-passed'>
 <tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
@@ -206,15 +198,20 @@ Driver info: driver.version: unknown
 <td><b>Instance</b></td>
 </tr>
 <tr>
+<td title='gbckTest.shanghuaddTest.shanghuTest()'><b>shanghuTest</b><br>Test class: gbckTest.shanghuaddTest</td>
+<td></td>
+<td>44</td>
+<td>gbckTest.shanghuaddTest@1b08d26f</td></tr>
+<tr>
 <td title='gbckTest.caigouTest.test()'><b>test</b><br>Test class: gbckTest.caigouTest</td>
 <td></td>
-<td>23</td>
-<td>gbckTest.caigouTest@308d4981</td></tr>
+<td>30</td>
+<td>gbckTest.caigouTest@41935a9d</td></tr>
 <tr>
 <td title='gbckTest.sizeyouhuiquanTest.tianjiashangpin()'><b>tianjiashangpin</b><br>Test class: gbckTest.sizeyouhuiquanTest</td>
 <td></td>
-<td>36</td>
-<td>gbckTest.sizeyouhuiquanTest@750adad8</td></tr>
+<td>37</td>
+<td>gbckTest.sizeyouhuiquanTest@752fecbf</td></tr>
 </table><p>
 </body>
 </html>

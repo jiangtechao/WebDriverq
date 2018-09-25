@@ -90,7 +90,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">4 methods, 2 failed,   2 passed</span>
+                    <span class="method-stats">5 methods, 2 failed,   3 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title failed">Failed methods</span>
@@ -118,6 +118,11 @@
                       <a href="#" panel-name="suite-Default_Suite" class="show-methods passed suite-Default_Suite"> (show)</a> <!-- show-methods passed suite-Default_Suite -->
                     </span>
                     <div class="method-list-content passed suite-Default_Suite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_Suite" title="gbckTest.shanghuaddTest" hash-for-method="shanghuTest">shanghuTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-Default_Suite" title="gbckTest.caigouTest" hash-for-method="test">test</a> <!-- method navigator-link -->
@@ -170,38 +175,49 @@
                   <a name="shouhuo">
                   </a> <!-- shouhuo -->
                   <span class="method-name">shouhuo</span>
-                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: Unable to locate element: {&quot;method&quot;:&quot;link text&quot;,&quot;selector&quot;:&quot;供货管理列表&quot;}
-Command duration or timeout: 2.45 seconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+                  <div class="stack-trace">org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 31 milliseconds
 Build info: version: &apos;2.44.0&apos;, revision: &apos;76d78cf323ce037c5f92db6c1bba601c2ac43ad8&apos;, time: &apos;2014-10-23 13:11:40&apos;
 System info: host: &apos;DESKTOP-1KEC5HB&apos;, ip: &apos;192.168.174.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
 Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.0.2, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 17d4d746-7d56-40ef-8f92-670fe89cd8a3
+Session ID: 016c6f59-9ef2-4762-add2-3f98585595ee
 	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
 	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByLinkText(RemoteWebDriver.java:401)
-	at org.openqa.selenium.By$ByLinkText.findElement(By.java:242)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
-	at gbckTest.shouhuoTest.shouhuo(shouhuoTest.java:58)
-Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {&quot;method&quot;:&quot;link text&quot;,&quot;selector&quot;:&quot;供货管理列表&quot;}
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)
+	at gbckTest.shouhuoTest.shouhuo(shouhuoTest.java:39)
+Caused by: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
 Build info: version: &apos;2.44.0&apos;, revision: &apos;76d78cf323ce037c5f92db6c1bba601c2ac43ad8&apos;, time: &apos;2014-10-23 13:11:40&apos;
 System info: host: &apos;DESKTOP-1KEC5HB&apos;, ip: &apos;192.168.174.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;
 Driver info: driver.version: unknown
-	at &lt;anonymous class&gt;.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/18217/AppData/Local/Temp/anonymous6617247868790040658webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:9641:26)
-	at &lt;anonymous class&gt;.FirefoxDriver.prototype.findElement(file:///C:/Users/18217/AppData/Local/Temp/anonymous6617247868790040658webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:9650:3)
-	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/18217/AppData/Local/Temp/anonymous6617247868790040658webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:16)
-	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/18217/AppData/Local/Temp/anonymous6617247868790040658webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11640:7)
-	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/18217/AppData/Local/Temp/anonymous6617247868790040658webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11582:5)
+	at &lt;anonymous class&gt;.fxdriver.preconditions.visible(file:///C:/Users/18217/AppData/Local/Temp/anonymous4530702842493799102webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:8959:12)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.checkPreconditions_(file:///C:/Users/18217/AppData/Local/Temp/anonymous4530702842493799102webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11618:15)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/18217/AppData/Local/Temp/anonymous4530702842493799102webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11635:11)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/18217/AppData/Local/Temp/anonymous4530702842493799102webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11640:7)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/18217/AppData/Local/Temp/anonymous4530702842493799102webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11582:5)
 ... Removed 27 stack frames
 </div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
           </div> <!-- suite-Default_Suite-class-failed -->
+          <div class="suite-Default_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">gbckTest.caigouTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="test">
+                  </a> <!-- test -->
+                  <span class="method-name">test</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Default_Suite-class-passed -->
           <div class="suite-Default_Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -220,14 +236,14 @@ Driver info: driver.version: unknown
           <div class="suite-Default_Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">gbckTest.caigouTest</span>
+              <span class="class-name">gbckTest.shanghuaddTest</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="test">
-                  </a> <!-- test -->
-                  <span class="method-name">test</span>
+                  <a name="shanghuTest">
+                  </a> <!-- shanghuTest -->
+                  <span class="method-name">shanghuTest</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -245,6 +261,7 @@ Driver info: driver.version: unknown
   &lt;test name=&quot;WebDriverq&quot;&gt;
     &lt;classes&gt;
       &lt;class name=&quot;gbckTest.caigouTest&quot;/&gt;
+      &lt;class name=&quot;gbckTest.shanghuaddTest&quot;/&gt;
       &lt;class name=&quot;gbckTest.shouhuoTest&quot;/&gt;
       &lt;class name=&quot;gbckTest.sizeyouhuiquanTest&quot;/&gt;
       &lt;class name=&quot;gbckTest.vipaddTest&quot;/&gt;
@@ -261,7 +278,7 @@ Driver info: driver.version: unknown
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">WebDriverq (4 classes)</span>
+                <span class="test-name">WebDriverq (5 classes)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -287,28 +304,32 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(4);
+data.addRows(5);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'tianjiashangpin')
-data.setCell(0, 2, 'gbckTest.sizeyouhuiquanTest')
-data.setCell(0, 3, 36152);
+data.setCell(0, 1, 'shanghuTest')
+data.setCell(0, 2, 'gbckTest.shanghuaddTest')
+data.setCell(0, 3, 44610);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'shouhuo')
-data.setCell(1, 2, 'gbckTest.shouhuoTest')
-data.setCell(1, 3, 27769);
+data.setCell(1, 1, 'tianjiashangpin')
+data.setCell(1, 2, 'gbckTest.sizeyouhuiquanTest')
+data.setCell(1, 3, 37627);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'test')
 data.setCell(2, 2, 'gbckTest.caigouTest')
-data.setCell(2, 3, 23534);
+data.setCell(2, 3, 30498);
 data.setCell(3, 0, 3)
 data.setCell(3, 1, 'testsuit')
 data.setCell(3, 2, 'gbckTest.vipaddTest')
-data.setCell(3, 3, 18978);
+data.setCell(3, 3, 21081);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'shouhuo')
+data.setCell(4, 2, 'gbckTest.shouhuoTest')
+data.setCell(4, 3, 11995);
 window.suiteTableData['Default_Suite']= { tableData: data, tableDiv: 'times-div-Default_Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <span class="suite-total-time">Total running time: 2 minutes</span>
               <div id="times-div-Default_Suite">
               </div> <!-- times-div-Default_Suite -->
             </div> <!-- times-div -->
@@ -341,31 +362,45 @@ return data;
               </div> <!-- configuration-test before -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
+              <div class="chronological-class-name">gbckTest.shanghuaddTest</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">beforeTest</span>
+                <span class="method-start">6592 ms</span>
+              </div> <!-- configuration-test before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
               <div class="chronological-class-name">gbckTest.shouhuoTest</div> <!-- chronological-class-name -->
               <div class="configuration-test before">
                 <span class="method-name">beforeTest</span>
-                <span class="method-start">6214 ms</span>
+                <span class="method-start">12832 ms</span>
               </div> <!-- configuration-test before -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">gbckTest.sizeyouhuiquanTest</div> <!-- chronological-class-name -->
               <div class="configuration-test before">
                 <span class="method-name">beforeTest</span>
-                <span class="method-start">13351 ms</span>
+                <span class="method-start">19219 ms</span>
               </div> <!-- configuration-test before -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">gbckTest.vipaddTest</div> <!-- chronological-class-name -->
               <div class="configuration-test before">
                 <span class="method-name">beforeTest</span>
-                <span class="method-start">19397 ms</span>
+                <span class="method-start">25477 ms</span>
               </div> <!-- configuration-test before -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">gbckTest.caigouTest</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">test</span>
-                <span class="method-start">28701 ms</span>
+                <span class="method-start">31896 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">gbckTest.shanghuaddTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">shanghuTest</span>
+                <span class="method-start">62407 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
@@ -374,14 +409,14 @@ return data;
                 <img src="failed.png">
                 </img>
                 <span class="method-name">shouhuo</span>
-                <span class="method-start">52245 ms</span>
+                <span class="method-start">107019 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">gbckTest.sizeyouhuiquanTest</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">tianjiashangpin</span>
-                <span class="method-start">80045 ms</span>
+                <span class="method-start">119054 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
@@ -390,35 +425,42 @@ return data;
                 <img src="failed.png">
                 </img>
                 <span class="method-name">testsuit</span>
-                <span class="method-start">116199 ms</span>
+                <span class="method-start">156682 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">gbckTest.caigouTest</div> <!-- chronological-class-name -->
               <div class="configuration-test after">
                 <span class="method-name">afterTest</span>
-                <span class="method-start">135178 ms</span>
+                <span class="method-start">177765 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">gbckTest.shanghuaddTest</div> <!-- chronological-class-name -->
+              <div class="configuration-test after">
+                <span class="method-name">afterTest</span>
+                <span class="method-start">178167 ms</span>
               </div> <!-- configuration-test after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">gbckTest.shouhuoTest</div> <!-- chronological-class-name -->
               <div class="configuration-test after">
                 <span class="method-name">afterTest</span>
-                <span class="method-start">135593 ms</span>
+                <span class="method-start">178575 ms</span>
               </div> <!-- configuration-test after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">gbckTest.sizeyouhuiquanTest</div> <!-- chronological-class-name -->
               <div class="configuration-test after">
                 <span class="method-name">afterTest</span>
-                <span class="method-start">135987 ms</span>
+                <span class="method-start">178980 ms</span>
               </div> <!-- configuration-test after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">gbckTest.vipaddTest</div> <!-- chronological-class-name -->
               <div class="configuration-test after">
                 <span class="method-name">afterTest</span>
-                <span class="method-start">136386 ms</span>
+                <span class="method-start">179371 ms</span>
               </div> <!-- configuration-test after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

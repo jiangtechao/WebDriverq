@@ -49,14 +49,14 @@ public class sizeyouhuiquanTest {
 
         driver.findElement(xpath(".//*[@id='main-container']/div[2]/div/div/div[3]/div/div/div/div/h3/div/a/span")).click();
         Thread.sleep(2000);
-            String title2 = driver.getTitle();
-            Assert.assertEquals("隔壁仓库 V1.1.2 - 新建优惠券类型",title2);
+        String title2 = driver.getTitle();
+        Assert.assertEquals("隔壁仓库 V1.1.2 - 新建优惠券类型",title2);
 
         driver.findElement(By.id("name")).sendKeys("满5减3");
         driver.findElement(By.id("faceValue")).sendKeys("3");
         driver.findElement(By.id("paymentLimit")).sendKeys("5");
         Thread.sleep(2000);
-       WebElement el = driver.findElement(By.id("typeStatus"));
+        WebElement el = driver.findElement(By.id("typeStatus"));
         Select sel = new Select(el);
         sel.selectByValue("OVERLAB");//叠加
 
@@ -70,8 +70,8 @@ public class sizeyouhuiquanTest {
         driver.findElement(xpath(".//*[@id='minCountInPool']")).sendKeys("2");
         driver.findElement(xpath(".//*[@id='btn_save']")).click();
         Thread.sleep(4000);
-            String title3 = driver.getTitle();
-            Assert.assertEquals("隔壁仓库 V1.1.2 - 配置优惠券",title3);
+        String title3 = driver.getTitle();
+        Assert.assertEquals("隔壁仓库 V1.1.2 - 配置优惠券",title3);
 
     }
 
@@ -88,4 +88,3 @@ public class sizeyouhuiquanTest {
 
 
 }
-

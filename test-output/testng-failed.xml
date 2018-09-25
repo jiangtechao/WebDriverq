@@ -3,18 +3,6 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
   <test name="WebDriverq(failed)">
     <classes>
-      <class name="gbckTest.sizeyouhuiquanTest">
-        <methods>
-          <include name="beforeTest"/>
-          <include name="afterTest"/>
-        </methods>
-      </class> <!-- gbckTest.sizeyouhuiquanTest -->
-      <class name="gbckTest.caigouTest">
-        <methods>
-          <include name="beforeTest"/>
-          <include name="afterTest"/>
-        </methods>
-      </class> <!-- gbckTest.caigouTest -->
       <class name="gbckTest.vipaddTest">
         <methods>
           <include name="testsuit"/>
@@ -29,6 +17,24 @@
           <include name="beforeTest"/>
         </methods>
       </class> <!-- gbckTest.shouhuoTest -->
+      <class name="gbckTest.caigouTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- gbckTest.caigouTest -->
+      <class name="gbckTest.sizeyouhuiquanTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- gbckTest.sizeyouhuiquanTest -->
+      <class name="gbckTest.shanghuaddTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- gbckTest.shanghuaddTest -->
     </classes>
   </test> <!-- WebDriverq(failed) -->
 </suite> <!-- Failed suite [Default Suite] -->

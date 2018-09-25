@@ -7,6 +7,7 @@
         <class name="gbckTest.sizeyouhuiquanTest"><methods><include name="tianjiashangpin"/></methods></class>
         <class name="gbckTest.vipaddTest"><methods><include name="testsuit"/></methods></class>
         <class name="gbckTest.shanghuaddTest"></class>
+        <class name="gbckTest.pandianTest"></class>
     </classes>
 </test>
 </suite>

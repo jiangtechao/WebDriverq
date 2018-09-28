@@ -2,10 +2,10 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/用户/18217/workspace/WebDriverq">
     <classes>
-        <class name="gbckTest.caigouTest"><methods><include name="test"/></methods></class>
-        <class name="gbckTest.shouhuoTest"><methods><include name="shouhuo"/></methods></class>
-        <class name="gbckTest.sizeyouhuiquanTest"><methods><include name="tianjiashangpin"/></methods></class>
-        <class name="gbckTest.vipaddTest"><methods><include name="testsuit"/></methods></class>
+        <class name="gbckTest.caigouTest"></class>
+        <class name="gbckTest.shouhuoTest"></class>
+        <class name="gbckTest.sizeyouhuiquanTest"></class>
+        <class name="gbckTest.vipaddTest"></class>
         <class name="gbckTest.shanghuaddTest"></class>
         <class name="gbckTest.pandianTest"></class>
     </classes>

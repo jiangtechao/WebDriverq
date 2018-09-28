@@ -37,7 +37,7 @@ public class caigouTest {
         String username = "haikou";
         String password = "!2ikKxvrAh";
         logins.login(driver, username, password);
-        Thread.sleep(3000);
+        Thread.sleep(5000);
 
         String title = driver.getTitle();
         assertEquals("隔壁仓库 V1.1.2 - 欢迎",title);
@@ -92,13 +92,9 @@ public class caigouTest {
         driver.get(Url);
         driver.manage().window().maximize();
     }
-
-
-
     @AfterTest
     public void afterTest() {
         driver.quit();
     }
-
 }
 

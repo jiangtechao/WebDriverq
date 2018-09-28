@@ -28,7 +28,7 @@ public class vipaddTest {
         driver.findElement(By.xpath(".//*[@id='oneLevel_1']/span")).click();
         driver.findElement(By.xpath(".//*[@id='sub_one_1']/li[1]/a/span")).click();
         driver.findElement(By.xpath(".//*[@id='/member.do']/a")).click();//新增会员
-        driver.findElement(By.xpath(".//*[@id='mobile']")).sendKeys("18812345670");
+        driver.findElement(By.xpath(".//*[@id='mobile']")).sendKeys("18812345671");
         driver.findElement(By.xpath(".//*[@id='name']")).sendKeys("jtc1");
         WebElement province = driver.findElement(By.xpath(".//*[@id='sel_provinceId']"));
         Select sel = new Select(province);//声明Select对象

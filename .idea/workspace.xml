@@ -3,57 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3ffc6974-4103-4779-8df7-c5b67e6eb18b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/01f82b80-236b-4fe2-ae6e-5f27c46511a7-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/0faba8df-f0ce-4521-a43f-c96f19c762eb-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/12455f03-26b2-490a-8f4f-df9c2ff4b689-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/13b3e4c1-81cd-41b4-a6fb-ed588dbc519e-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/20a5ae34-03c5-48ee-92a2-811afb317cb6-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/2b75f72c-99bc-42e3-b75f-bac9695a5466-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/67244f8b-adc0-44e2-a0cb-d310415856b1-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/75563422-8381-46e4-9a2e-a665297632c3-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/94b78a1f-1043-45e4-b34d-4815dbe0a55a-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/a50f5ef4-5d59-4d81-aa3a-54c09785cc84-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/a7b142ea-9498-40a9-a613-04428feb7d3a-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/b7d723ab-1251-46ea-b57d-d855bf43a7e1-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/ece5dfc7-0df4-4721-8a9c-7cc8b29405c5-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/ecf3bbf4-9c23-467f-b4be-ec9e36fc382f-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/f3422980-ff08-4333-a437-f5a5990a9f91-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/f87a6735-0984-42d1-9dd9-46aac7a68890-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/allure-results/01f82b80-236b-4fe2-ae6e-5f27c46511a7-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/allure-results/0faba8df-f0ce-4521-a43f-c96f19c762eb-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/allure-results/12455f03-26b2-490a-8f4f-df9c2ff4b689-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/allure-results/13b3e4c1-81cd-41b4-a6fb-ed588dbc519e-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/allure-results/2b75f72c-99bc-42e3-b75f-bac9695a5466-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/allure-results/67244f8b-adc0-44e2-a0cb-d310415856b1-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/allure-results/75563422-8381-46e4-9a2e-a665297632c3-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/allure-results/94b78a1f-1043-45e4-b34d-4815dbe0a55a-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/allure-results/a50f5ef4-5d59-4d81-aa3a-54c09785cc84-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/allure-results/a7b142ea-9498-40a9-a613-04428feb7d3a-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/allure-results/b7d723ab-1251-46ea-b57d-d855bf43a7e1-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/allure-results/ece5dfc7-0df4-4721-8a9c-7cc8b29405c5-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/allure-results/ecf3bbf4-9c23-467f-b4be-ec9e36fc382f-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/allure-results/f3422980-ff08-4333-a437-f5a5990a9f91-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/allure-results/f87a6735-0984-42d1-9dd9-46aac7a68890-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/allure-results/2b75f72c-99bc-42e3-b75f-bac9695a5466-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/allure-results/b7d723ab-1251-46ea-b57d-d855bf43a7e1-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/allure-results/ece5dfc7-0df4-4721-8a9c-7cc8b29405c5-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/allure-results/f3422980-ff08-4333-a437-f5a5990a9f91-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/allure-results/b7d723ab-1251-46ea-b57d-d855bf43a7e1-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/allure-results/ece5dfc7-0df4-4721-8a9c-7cc8b29405c5-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/classes/allure-results/f3422980-ff08-4333-a437-f5a5990a9f91-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gbck5/WebDriverq/App.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/hehuorenTest/xianshangdingdanTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/jiazaiproplemTest/kehuliebiaoTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/jiazaiproplemTest/kuaihexiaoshoujiaTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/jiazaiproplemTest/morenxiaoshoujiaTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/jiazaiproplemTest/zidingyixiaoshoujiaTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" afterPath="$PROJECT_DIR$/testng.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,7 +63,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-2607">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -272,6 +221,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -307,9 +257,8 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -340,7 +289,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.testng">
+  <component name="RunManager" selected="TestNG.C:/用户/18217/workspace/WebDriverq/testng.xml">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -488,6 +437,33 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="C:/用户/18217/workspace/WebDriverq/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="WebDriverq" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration name="&lt;default&gt; (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="WebDriverq" />
@@ -558,38 +534,6 @@
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="PACKAGE" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="kehuliebiaoTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="jiazaiproplemTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="WebDriverq" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="jiazaiproplemTest" />
-      <option name="MAIN_CLASS_NAME" value="jiazaiproplemTest.kehuliebiaoTest" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -709,19 +653,19 @@
       <item index="2" class="java.lang.String" itemvalue="TestNG.C:/用户/18217/workspace/WebDriverq/target/testng.xml" />
       <item index="3" class="java.lang.String" itemvalue="TestNG.testng" />
       <item index="4" class="java.lang.String" itemvalue="TestNG. C:\用户\18217\workspace\WebDriverq\src\test\java\testng.xml" />
-      <item index="5" class="java.lang.String" itemvalue="TestNG.kehuliebiaoTest" />
-      <item index="6" class="java.lang.String" itemvalue="TestNG.morenxiaoshoujiaTest" />
-      <item index="7" class="java.lang.String" itemvalue="TestNG.xianshangdingdanTest" />
-      <item index="8" class="java.lang.String" itemvalue="TestNG.&lt;default&gt; (1)" />
-      <item index="9" class="java.lang.String" itemvalue="TestNG.caiwuguanliModelTest" />
+      <item index="5" class="java.lang.String" itemvalue="TestNG.morenxiaoshoujiaTest" />
+      <item index="6" class="java.lang.String" itemvalue="TestNG.xianshangdingdanTest" />
+      <item index="7" class="java.lang.String" itemvalue="TestNG.&lt;default&gt; (1)" />
+      <item index="8" class="java.lang.String" itemvalue="TestNG.caiwuguanliModelTest" />
+      <item index="9" class="java.lang.String" itemvalue="TestNG.C:/用户/18217/workspace/WebDriverq/testng.xml" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.caiwuguanliModelTest" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.&lt;default&gt; (1)" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.xianshangdingdanTest" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.morenxiaoshoujiaTest" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.kehuliebiaoTest" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/用户/18217/workspace/WebDriverq/testng.xml" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.caiwuguanliModelTest" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.&lt;default&gt; (1)" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.xianshangdingdanTest" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.morenxiaoshoujiaTest" />
       </list>
     </recent_temporary>
   </component>
@@ -785,7 +729,8 @@
       <workItem from="1537952137905" duration="4157000" />
       <workItem from="1538018851851" duration="3868000" />
       <workItem from="1538117079292" duration="19320000" />
-      <workItem from="1538146467297" duration="915000" />
+      <workItem from="1538146467297" duration="1266000" />
+      <workItem from="1538148444695" duration="148000" />
     </task>
     <servers />
   </component>
@@ -822,7 +767,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="197694000" />
+    <option name="totallyTimeSpent" value="198193000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -835,21 +780,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32784185" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32784185" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17792422" sideWeight="0.49092284" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17792422" sideWeight="0.49092284" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6276771" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31543118" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31996974" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -861,7 +806,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32784185" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1248,7 +1192,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-2607">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>

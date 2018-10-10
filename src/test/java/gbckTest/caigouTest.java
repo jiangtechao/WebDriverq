@@ -32,6 +32,7 @@ import org.testng.annotations.AfterTest;
 
 public class caigouTest {
     WebDriver driver = new FirefoxDriver();
+
     @Test
     public void test() throws InterruptedException {
         String username = "haikou";
@@ -40,54 +41,37 @@ public class caigouTest {
         Thread.sleep(5000);
 
         String title = driver.getTitle();
-        assertEquals("隔壁仓库 V1.1.2 - 欢迎",title);
+        assertEquals("隔壁仓库 V1.1.5 - 欢迎", title);
 
         //获得cookie
         Set<Cookie> coo = driver.manage().getCookies();
         System.out.println(coo);
 
-        //采购
-        driver.findElement(By.xpath(".//*[@id='oneLevel_3']/span")).click();
+        driver.findElement(By.xpath(".//*[@id='oneLevel_3']/span")).click();//采购
         driver.findElement(By.xpath(".//*[@id='sub_one_3']/li[1]/a/span")).click();
         driver.findElement(By.linkText("新建采购单")).click();
-
+        Thread.sleep(4000);
         String title2 = driver.getTitle();
-        Assert.assertEquals("隔壁仓库 V1.1.2 - 新建采购单", title2);
+        Assert.assertEquals("隔壁仓库 V1.1.5 - 新建采购单", title2);
 
-        WebDriverWait wai = new WebDriverWait(driver,10,1);
-        wai.until(new ExpectedCondition<WebElement>(){
-            public WebElement apply(WebDriver text) { return text.findElement(By.xpath(".//*[@id='main-container']/div[2]/div/div/div[4]/div/div/div/div/form/div/div/div[2]/div[2]/input"));
-            }
-        }).sendKeys("1000077");
-
-
+        driver.findElement(By.xpath(".//*[@id='main-container']/div[2]/div/div/div[4]/div/div/div/div/form/div/div/div[2]/div[2]/input")).sendKeys("1000077");
         driver.findElement(By.xpath(".//*[@id='main-container']/div[2]/div/div/div[4]/div/div/div/div/form/div/div/div[3]/div/button")).click();
 
-        WebDriverWait waie = new WebDriverWait(driver,10,1);
-        wai.until(new ExpectedCondition<WebElement>(){
-            public WebElement apply(WebDriver text) { return text.findElement(By.id("1000077"));
-            }
-        }).click();
-
-
         driver.findElement(By.linkText("我的进货单")).click();
+        Thread.sleep(4000);
+        String jinhuo = driver.getTitle();
+        assertEquals("隔壁仓库 V1.1.2 - 我的进货单", jinhuo);
 
-        String title3 = driver.getTitle();
-        assertEquals("隔壁仓库 V1.1.2 - 我的进货单",title3);
-
-        WebDriverWait wa = new WebDriverWait(driver,10,1);
-        wa.until(new ExpectedCondition<WebElement>(){
-            public WebElement apply(WebDriver text) { return text.findElement(By.xpath(".//*[@id='data-table']/tbody/tr/td[8]/input"));
-            }
-        }).sendKeys("10");
+        driver.findElement(By.xpath(".//*[@id='data-table']/tbody/tr/td[8]/input")).sendKeys("10");
         driver.findElement(By.xpath(".//*[@id='btn_save']")).click();
         Thread.sleep(2000);
-        String title4 = driver.getTitle();
-        assertEquals("隔壁仓库 V1.1.2 - 待审核的采购单",title4);
+        String shenhe = driver.getTitle();
+        assertEquals("隔壁仓库 V1.1.5 - 待审核的采购单", shenhe);
 
     }
     @BeforeTest
-    public void beforeTest() {
+
+  public void beforeTest() {
         String Url = "http://test-manage.depotnextdoor.com:7070/login";
         driver.get(Url);
         driver.manage().window().maximize();
@@ -95,6 +79,5 @@ public class caigouTest {
     @AfterTest
     public void afterTest() {
         driver.quit();
-    }
 }
-
+}

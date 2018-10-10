@@ -23,16 +23,15 @@ public class gebicangkushangpinTest {
         driver.findElement(By.linkText("隔壁仓库商品池")).click();
         Thread.sleep(4000);
         String title = driver.getTitle();
-        Assert.assertEquals("隔壁仓库 V1.1.5 - 货架商品列表",title);
+        Assert.assertEquals("隔壁仓库 V1.1.5 - 货架商品列表", title);
     }
-
     @BeforeTest
+
     public void beforeTest() {
         String Url = "http://test-manage.depotnextdoor.com:7070/login";
         driver.get(Url);
         driver.manage().window().maximize();
     }
-
     @AfterTest
     public void afterTest() {
         driver.quit();

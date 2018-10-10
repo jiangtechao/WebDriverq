@@ -4,9 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
+import org.testng.annotations.*;
 import publicMode.logins;
 
 public class diaobodanliebiaoTest {
@@ -26,15 +24,16 @@ public class diaobodanliebiaoTest {
         Assert.assertEquals("隔壁仓库 V1.1.5 - 调拨单列表",title);
     }
 
-    @BeforeTest
+    @BeforeSuite
     public void beforeTest() {
         String Url = "http://test-manage.depotnextdoor.com:7070/login";
         driver.get(Url);
         driver.manage().window().maximize();
     }
 
-    @AfterTest
+    @AfterSuite
     public void afterTest() {
+
         driver.quit();
     }
 }

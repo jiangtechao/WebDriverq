@@ -3,21 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="3ffc6974-4103-4779-8df7-c5b67e6eb18b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/gbckTest/caigouTest.java" afterPath="$PROJECT_DIR$/src/test/java/gbckTest/caigouTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/publicMode/Timeout.java" afterPath="$PROJECT_DIR$/src/test/java/publicMode/Timeout.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/shangpinguanliModelTest/diaobodanliebiaoTest.java" afterPath="$PROJECT_DIR$/src/test/java/shangpinguanliModelTest/diaobodanliebiaoTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/shangpinguanliModelTest/gebicangkushangpinTest.java" afterPath="$PROJECT_DIR$/src/test/java/shangpinguanliModelTest/gebicangkushangpinTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/xianshangdingdanModelTest/peisongtaiTest.java" afterPath="$PROJECT_DIR$/src/test/java/xianshangdingdanModelTest/peisongtaiTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/xianshangdingdanModelTest/pinglunguanliTest.java" afterPath="$PROJECT_DIR$/src/test/java/xianshangdingdanModelTest/pinglunguanliTest.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/testng.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/testng.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/gbckTest/caigouTest$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/gbckTest/caigouTest$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/gbckTest/caigouTest$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/gbckTest/caigouTest.class" afterPath="$PROJECT_DIR$/target/test-classes/gbckTest/caigouTest.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/shangpinguanliModelTest/diaobodanliebiaoTest.class" afterPath="$PROJECT_DIR$/target/test-classes/shangpinguanliModelTest/diaobodanliebiaoTest.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/shangpinguanliModelTest/gebicangkushangpinTest.class" afterPath="$PROJECT_DIR$/target/test-classes/shangpinguanliModelTest/gebicangkushangpinTest.class" />
-      <change beforePath="$PROJECT_DIR$/target/testng.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/2e5d4bf7-6de8-4659-ba46-acc910b0df10-testsuite.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/3849bea4-fa6d-4818-9695-1f2db8c56c65-testsuite.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/6e4cabcb-edd2-4741-81ca-f67f94b4bcbd-testsuite.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/6f9e8c78-f548-4d8a-8038-c92d4dbd812e-testsuite.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/c56c5057-eab0-40a4-be68-8cb40026f050-testsuite.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/f841e1de-262e-4bc5-9721-82536f6f317c-testsuite.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/allure-results/2e5d4bf7-6de8-4659-ba46-acc910b0df10-testsuite.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/allure-results/3849bea4-fa6d-4818-9695-1f2db8c56c65-testsuite.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/allure-results/6f9e8c78-f548-4d8a-8038-c92d4dbd812e-testsuite.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/allure-results/c56c5057-eab0-40a4-be68-8cb40026f050-testsuite.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/allure-results/f841e1de-262e-4bc5-9721-82536f6f317c-testsuite.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" afterPath="$PROJECT_DIR$/testng.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,7 +48,7 @@
       <file leaf-file-name="peisongtaiTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/xianshangdingdanModelTest/peisongtaiTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
+            <state relative-caret-position="125">
               <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -59,11 +57,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pinglunguanliTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pinglunguanliTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/xianshangdingdanModelTest/pinglunguanliTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
-              <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            <state relative-caret-position="100">
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="caigoubaobiaoTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/caiwuguanliModelTest/caigoubaobiaoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="25" column="45" lean-forward="false" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -143,13 +161,13 @@
         <option value="$PROJECT_DIR$/src/test/java/TEST1/testone.java" />
         <option value="$PROJECT_DIR$/src/test/java/TEST1/testtwo.java" />
         <option value="$PROJECT_DIR$/src/test/testng.xml" />
-        <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/shangpinguanliModelTest/diaobodanliebiaoTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/gbckTest/caigouTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/shangpinguanliModelTest/gebicangkushangpinTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/publicMode/Timeout.java" />
         <option value="$PROJECT_DIR$/src/test/java/xianshangdingdanModelTest/peisongtaiTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/xianshangdingdanModelTest/pinglunguanliTest.java" />
+        <option value="$PROJECT_DIR$/testng.xml" />
       </list>
     </option>
   </component>
@@ -220,9 +238,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,13 +270,20 @@
             <path>
               <item name="WebDriverq" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebDriverq" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="caigouModelTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDriverq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebDriverq" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,7 +291,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/testng.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/testng.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -288,7 +314,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/用户/18217/workspace/WebDriverq/testng.xml">
+  <component name="RunManager" selected="TestNG.caigoubaobiaoTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -382,33 +408,6 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
-    <configuration name="C:/用户/18217/workspace/WebDriverq/target/testng.xml (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/target/testng.xml" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration name="C:/用户/18217/workspace/WebDriverq/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="WebDriverq" />
@@ -463,38 +462,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="TEST1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="TEST1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="WebDriverq" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="TEST1" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="PACKAGE" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -522,10 +489,10 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="caigouTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="caigoubaobiaoTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="gbckTest.*" />
+          <option name="PATTERN" value="caiwuguanliModelTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -533,43 +500,11 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="gbckTest" />
-      <option name="MAIN_CLASS_NAME" value="gbckTest.caigouTest" />
+      <option name="PACKAGE_NAME" value="caiwuguanliModelTest" />
+      <option name="MAIN_CLASS_NAME" value="caiwuguanliModelTest.caigoubaobiaoTest" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="kehuguanliModelTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="kehuguanliModelTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="WebDriverq" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="kehuguanliModelTest" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="PACKAGE" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -592,7 +527,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="gbckTest" />
+      <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="GROUP_NAME" value="" />
@@ -619,23 +554,17 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="8">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.All in WebDriverq" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.gbckTest in WebDriverq" />
       <item index="2" class="java.lang.String" itemvalue="TestNG.testng" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.kehuguanliModelTest" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.C:/用户/18217/workspace/WebDriverq/testng.xml" />
-      <item index="5" class="java.lang.String" itemvalue="TestNG.C:/用户/18217/workspace/WebDriverq/target/testng.xml (1)" />
-      <item index="6" class="java.lang.String" itemvalue="TestNG.caigouTest" />
-      <item index="7" class="java.lang.String" itemvalue="TestNG.TEST1" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.C:/用户/18217/workspace/WebDriverq/testng.xml" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.caigoubaobiaoTest" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/用户/18217/workspace/WebDriverq/testng.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.TEST1" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.caigouTest" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.C:/用户/18217/workspace/WebDriverq/target/testng.xml (1)" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.kehuguanliModelTest" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="TestNG.caigoubaobiaoTest" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/用户/18217/workspace/WebDriverq/testng.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -709,17 +638,12 @@
       <workItem from="1538981033013" duration="9456000" />
       <workItem from="1539004582527" duration="40000" />
       <workItem from="1539063336864" duration="690000" />
-      <workItem from="1539153518827" duration="1455000" />
+      <workItem from="1539153518827" duration="4459000" />
+      <workItem from="1539158018606" duration="859000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__用户_18217_workspace_WebDriverq_target_testng_xml - 2018.09.29 at 02h 31m 33s.xml">
-      <configuration name="C:/用户/18217/workspace/WebDriverq/target/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__用户_18217_workspace_WebDriverq_target_testng_xml - 2018.09.29 at 02h 40m 15s.xml">
-      <configuration name="C:/用户/18217/workspace/WebDriverq/target/testng.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__用户_18217_workspace_WebDriverq_target_testng_xml - 2018.09.29 at 02h 45m 02s.xml">
       <configuration name="C:/用户/18217/workspace/WebDriverq/target/testng.xml" configurationId="TestNG" />
     </history-entry>
@@ -735,6 +659,9 @@
     <history-entry file="TEST1 - 2018.09.30 at 10h 59m 07s.xml">
       <configuration name="TEST1" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="_default_ - 2018.10.10 at 15h 59m 55s.xml">
+      <configuration name="&lt;default&gt;" configurationId="TestNG" />
+    </history-entry>
     <history-entry file="caigouTest - 2018.09.30 at 10h 29m 57s.xml">
       <configuration name="caigouTest" configurationId="TestNG" />
     </history-entry>
@@ -744,9 +671,12 @@
     <history-entry file="caigouTest - 2018.09.30 at 10h 41m 35s.xml">
       <configuration name="caigouTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="caigoubaobiaoTest - 2018.10.10 at 16h 07m 45s.xml">
+      <configuration name="caigoubaobiaoTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="232748000" />
+    <option name="totallyTimeSpent" value="236611000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -762,17 +692,18 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32784185" sideWeight="0.4969743" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32784185" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18286656" sideWeight="0.49092284" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26688632" sideWeight="0.49092284" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6276771" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33585477" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34114978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -784,7 +715,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32784185" sideWeight="0.4969743" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -868,13 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="25" column="48" lean-forward="false" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/caiwuguanliModelTest/caigoubaobiaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="25" column="45" lean-forward="false" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -995,6 +918,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1014,13 +938,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="73" lean-forward="true" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1098,6 +1016,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="71" column="2" lean-forward="false" selection-start-line="71" selection-start-column="2" selection-end-line="81" selection-end-column="1" />
+          <folding>
+            <element signature="e#2734#2735#0" expanded="true" />
+            <element signature="e#2759#2760#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1119,12 +1041,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-25">
           <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/xianshangdingdanModelTest/peisongtaiTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
+        <state relative-caret-position="125">
           <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1134,8 +1057,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/xianshangdingdanModelTest/pinglunguanliTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state relative-caret-position="100">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/caiwuguanliModelTest/caigoubaobiaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="45" lean-forward="false" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
           <folding />
         </state>
       </provider>

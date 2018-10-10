@@ -3,8 +3,65 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/�û�/18217/workspace/WebDriverq">
     <classes>
-    <class name="shangpinguanliModelTest.diaobodanliebiaoTest"></class>
-    <class name="shangpinguanliModelTest.gebicangkushangpinTest"></class>
+        <class name="caigouModelTest.shangpinrukuModelTest.caigoushouhuorukuTest"></class>
+        <class name="caigouModelTest.shangpinrukuModelTest.caigoutuihuochukuTest"></class>
+        <class name="caigouModelTest.shangpinrukuModelTest.feicaigourukuTest"></class>
+        <class name="caigouModelTest.shangpinrukuModelTest.ziyingshangpinrukuTest"></class>
+        <class name="caigouModelTest.daishenhecaigoudanTest"></class>
+        <class name="caigouModelTest.huobucaigoudanTest"></class>
+        <class name="caigouModelTest.huobucaigoudanTest"></class>
+        <class name="caigouModelTest.wodehuobujinhuodanTest"></class>
+        <class name="caigouModelTest.wodejinhuodanTest"></class>
+        <class name="caigouModelTest.xinjiancaigoudanTest"></class>
+        <class name="caigouModelTest.yibiangengdecaigoudanTest"></class>
+        <class name="caigouModelTest.yiquerendecaigoudanTest"></class>
+        <class name="caigouModelTest.yiquxiaodecaigoudanTest"></class>
+        <class name="caiwuguanliModelTest.caigoubaobiaoTest"></class>
+        <class name="caiwuguanliModelTest.caigoutuihuobaobiaoTest"></class>
+        <class name="caiwuguanliModelTest.shoukuanzhanghaoguanliTest"></class>
+        <class name="caiwuguanliModelTest.weijiesuandedingdanTest"></class>
+        <class name="caiwuguanliModelTest.xiaoshoufanliTest"></class>
+        <class name="caiwuguanliModelTest.xiaoshoujiesuanbaobiaoTest"></class>
+        <class name="caiwuguanliModelTest.xiaoshoulirunbaobiaoTest"></class>
+        <class name="caiwuguanliModelTest.xiaoshoutongjiTest"></class>
+        <class name="caiwuguanliModelTest.xiaoshoutuihuobaobiaoTest"></class>
+        <class name="caiwuguanliModelTest.yijiesuandedingdanTest"></class>
+        <class name="kehuguanliModelTest.huiyuanliebiaoTest"></class>
+        <class name="kehuguanliModelTest.shanghuliebiaoTest"></class>
+        <class name="kehuguanliModelTest.xinzenghuiyuanTest"></class>
+        <class name="kehuguanliModelTest.xinzengshanghuTest"></class>
+        <class name="kehuguanliModelTest.zimendianliebiaoTest"></class>
+        <class name="mendiandingdanModelTest.dingdanliebiaoTest"></class>
+        <class name="mendiandingdanModelTest.shoudanguanliTest"></class>
+        <class name="mendiandingdanModelTest.tuihuorukuTest"></class>
+        <class name="mendiandingdanModelTest.tuihuoshenheTest"></class>
+        <class name="mendiandingdanModelTest.tuihuoshenqingTest"></class>
+        <class name="shangpinguanliModelTest.diaobodanliebiaoTest"></class>
+        <class name="shangpinguanliModelTest.gebicangkushangpinTest"></class>
+        <class name="shangpinguanliModelTest.gebishangpinkucunTest"></class>
+        <class name="shangpinguanliModelTest.kucunliushuichaxunTest"></class>
+        <class name="shangpinguanliModelTest.kucuntongbuTest"></class>
+        <class name="shangpinguanliModelTest.shangpinpandianTest"></class>
+        <class name="shangpinguanliModelTest.xinjiantiaobodanTest"></class>
+        <class name="shangpinguanliModelTest.ziyingshangpinguanliTest"></class>
+        <class name="shangpinguanliModelTest.ziyingzizhishenqingTest"></class>
+        <class name="xianshangdingdanModelTest.peisongtaiTest"></class>
+        <class name="xianshangdingdanModelTest.pinglunguanliTest"></class>
+        <class name="xianshangdingdanModelTest.tuihuorukuTest"></class>
+        <class name="xianshangdingdanModelTest.tuihuoshenheTest"></class>
+        <class name="xianshangdingdanModelTest.tuihuoshenqingTest"></class>
+        <class name="xianshangdingdanModelTest.xianshangdingdanTest"></class>
+        <class name="xitongguanliModelTest.APPkefudianhuaTest"></class>
+        <class name="xitongguanliModelTest.APPyaoqingmaTest"></class>
+        <class name="xitongguanliModelTest.APPzhuangxiuTest"></class>
+        <class name="xitongguanliModelTest.erweimalvlixinxiTest"></class>
+        <class name="xitongguanliModelTest.erweimaxinxiTest"></class>
+        <class name="xitongguanliModelTest.gonggaoliebiaoTest"></class>
+        <class name="xitongguanliModelTest.gongsixinxiguanliTest"></class>
+        <class name="xitongguanliModelTest.kuaiheAppdianpuguanliTest"></class>
+        <class name="xitongguanliModelTest.kuaiheAppruzhushenqingTest"></class>
+        <class name="xitongguanliModelTest.quanxianguanliTest"></class>
+        <class name="xitongguanliModelTest.zhanghaoguanliTest"></class>
      </classes>
 </test>
 </suite>

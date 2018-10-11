@@ -8,10 +8,12 @@ import org.testng.annotations.*;
 import publicMode.logins;
 
 public   class peisongtaiTest {
-    private static WebDriver driver;
+    WebDriver driver = new FirefoxDriver();
     @Test
     public  void xiadan() throws InterruptedException {
-
+        String username = "haikou";
+        String password = "!2ikKxvrAh";
+        logins.login(driver, username, password);
         driver.findElement(By.xpath(".//*[@id='oneLevel_0']/span")).click();
         driver.findElement(By.xpath(".//*[@id='sub_one_0']/li[2]/a/span")).click();
         driver.findElement(By.xpath(".//*[@id='/orderdelivery/list.do']/a")).click();
@@ -21,7 +23,7 @@ public   class peisongtaiTest {
 
     }
 
-    @BeforeSuite
+    @BeforeTest
     public void beforeTest() throws InterruptedException {
         String Url = "http://test-manage.depotnextdoor.com:7070/login";
         driver.get(Url);
@@ -32,7 +34,7 @@ public   class peisongtaiTest {
         Thread.sleep(4000);
     }
 
-    @AfterSuite
+    @AfterTest
     public void aftertest() throws InterruptedException {
         Thread.sleep(4000);
     }

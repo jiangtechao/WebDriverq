@@ -10,11 +10,13 @@ import org.testng.annotations.Test;
 import publicMode.logins;
 
 public class pinglunguanliTest {
-    private WebDriver driver;
+    WebDriver driver = new FirefoxDriver();
 
     @Test
     public void kehuliebiaoo() throws InterruptedException {
-
+        String username = "haikou";
+        String password = "!2ikKxvrAh";
+        logins.login(driver, username, password);
         driver.findElement(By.xpath(".//*[@id='oneLevel_0']/span")).click();
         driver.findElement(By.xpath(".//*[@id='sub_one_0']/li[1]/a/span")).click();
         driver.findElement(By.linkText("评论管理")).click();

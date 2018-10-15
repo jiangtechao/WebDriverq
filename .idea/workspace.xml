@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3ffc6974-4103-4779-8df7-c5b67e6eb18b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/1b3209b1-6877-4e38-888e-98da727a356f-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/da67bbbe-43cb-4ae2-98ac-b32a11158d37-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/xianshangdingdanModelTest/peisongtaiTest.class" afterPath="$PROJECT_DIR$/target/test-classes/xianshangdingdanModelTest/peisongtaiTest.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/xianshangdingdanModelTest/pinglunguanliTest.class" afterPath="$PROJECT_DIR$/target/test-classes/xianshangdingdanModelTest/pinglunguanliTest.class" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,13 +77,13 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/xianshangdingdanModelTest/peisongtaiTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+              <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="caigoutuihuobaobiaoTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="caigoutuihuobaobiaoTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/caiwuguanliModelTest/caigoutuihuobaobiaoTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
@@ -106,11 +103,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+            <state relative-caret-position="225">
+              <caret line="87" column="61" lean-forward="true" selection-start-line="87" selection-start-column="61" selection-end-line="87" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -157,7 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/shangpinguanliModelTest/ziyingzizhishenqingTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/shangpinguanliModelTest/gebishangpinkucunTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/shangpinguanliModelTest/kucuntongbuTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/shangpinguanliModelTest/shangpinpandianTest.java" />
@@ -208,6 +204,7 @@
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/xianshangdingdanModelTest/pinglunguanliTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/xianshangdingdanModelTest/peisongtaiTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -241,7 +238,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-7" />
     <option name="y" value="2" />
     <option name="width" value="1378" />
@@ -324,6 +321,19 @@
               <item name="WebDriverq" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebDriverq" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDriverq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebDriverq" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="maven-status" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDriverq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebDriverq" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="maven-status" type="462c0819:PsiDirectoryNode" />
+              <item name="maven-compiler-plugin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -774,7 +784,7 @@
       <workItem from="1539251361503" duration="1045000" />
       <workItem from="1539312723417" duration="623000" />
       <workItem from="1539314557731" duration="6640000" />
-      <workItem from="1539566966663" duration="3626000" />
+      <workItem from="1539566966663" duration="4860000" />
     </task>
     <servers />
   </component>
@@ -811,7 +821,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="258436000" />
+    <option name="totallyTimeSpent" value="259670000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -823,7 +833,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
+    <frame x="-7" y="2" width="1378" height="733" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -835,7 +845,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.088926174" sideWeight="0.49092284" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6276771" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6275168" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27465856" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1192,14 +1202,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/allure-results/3e7be463-4bc3-4d9c-839e-2fd77c22410d-container.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1227,7 +1229,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/xianshangdingdanModelTest/peisongtaiTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
           <folding />
         </state>
       </provider>
@@ -1236,6 +1238,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="87" column="61" lean-forward="true" selection-start-line="87" selection-start-column="61" selection-end-line="87" selection-end-column="61" />
           <folding />
         </state>
       </provider>

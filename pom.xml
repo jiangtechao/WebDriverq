@@ -85,9 +85,8 @@
                     <!--<testFailureIgnore>true</testFailureIgnore>-->
                     <testFailureIgnore>true</testFailureIgnore>
                     <suiteXmlFiles>
-                        <suiteXmlFile>testng.xml</suiteXmlFile>
                         <!--此处testng.xml即为要运行的testng.xml文件-->
-                        <suiteXmlFile>./src/test/java/testng.xml</suiteXmlFile>
+                        <suiteXmlFile>testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
                     <argLine>
                         -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"

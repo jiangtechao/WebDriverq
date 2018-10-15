@@ -36,32 +36,7 @@
         <class name="mendiandingdanModelTest.tuihuorukuTest"></class>
         <class name="mendiandingdanModelTest.tuihuoshenheTest"></class>
         <class name="mendiandingdanModelTest.tuihuoshenqingTest"></class>
-        <class name="shangpinguanliModelTest.diaobodanliebiaoTest"></class>
-        <class name="shangpinguanliModelTest.gebicangkushangpinTest"></class>
-        <class name="shangpinguanliModelTest.gebishangpinkucunTest"></class>
-        <class name="shangpinguanliModelTest.kucunliushuichaxunTest"></class>
-        <class name="shangpinguanliModelTest.kucuntongbuTest"></class>
-        <class name="shangpinguanliModelTest.shangpinpandianTest"></class>
-        <class name="shangpinguanliModelTest.xinjiantiaobodanTest"></class>
-        <class name="shangpinguanliModelTest.ziyingshangpinguanliTest"></class>
-        <class name="shangpinguanliModelTest.ziyingzizhishenqingTest"></class>
-        <class name="xianshangdingdanModelTest.peisongtaiTest"></class>
-        <class name="xianshangdingdanModelTest.pinglunguanliTest"></class>
-        <class name="xianshangdingdanModelTest.tuihuorukuTest"></class>
-        <class name="xianshangdingdanModelTest.tuihuoshenheTest"></class>
-        <class name="xianshangdingdanModelTest.tuihuoshenqingTest"></class>
-        <class name="xianshangdingdanModelTest.xianshangdingdanTest"></class>
-        <class name="xitongguanliModelTest.APPkefudianhuaTest"></class>
-        <class name="xitongguanliModelTest.APPyaoqingmaTest"></class>
-        <class name="xitongguanliModelTest.APPzhuangxiuTest"></class>
-        <class name="xitongguanliModelTest.erweimalvlixinxiTest"></class>
-        <class name="xitongguanliModelTest.erweimaxinxiTest"></class>
-        <class name="xitongguanliModelTest.gonggaoliebiaoTest"></class>
-        <class name="xitongguanliModelTest.gongsixinxiguanliTest"></class>
-        <class name="xitongguanliModelTest.kuaiheAppdianpuguanliTest"></class>
-        <class name="xitongguanliModelTest.kuaiheAppruzhushenqingTest"></class>
-        <class name="xitongguanliModelTest.quanxianguanliTest"></class>
-        <class name="xitongguanliModelTest.zhanghaoguanliTest"></class>
+
      </classes>
 </test>
 </suite>

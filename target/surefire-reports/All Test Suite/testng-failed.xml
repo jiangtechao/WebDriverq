@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [All Test Suite]">
+  <test name="C:/�û�/18217/workspace/WebDriverq(failed)">
+    <classes>
+      <class name="caigouModelTest.wodehuobujinhuodanTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- caigouModelTest.wodehuobujinhuodanTest -->
+      <class name="xitongguanliModelTest.APPyaoqingmaTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- xitongguanliModelTest.APPyaoqingmaTest -->
+      <class name="xitongguanliModelTest.APPzhuangxiuTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- xitongguanliModelTest.APPzhuangxiuTest -->
+      <class name="caiwuguanliModelTest.caigoubaobiaoTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="kehuliebiaoo"/>
+        </methods>
+      </class> <!-- caiwuguanliModelTest.caigoubaobiaoTest -->
+      <class name="caiwuguanliModelTest.shoukuanzhanghaoguanliTest">
+        <methods>
+          <include name="kehuliebiaoo"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- caiwuguanliModelTest.shoukuanzhanghaoguanliTest -->
+      <class name="caiwuguanliModelTest.xiaoshoujiesuanbaobiaoTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- caiwuguanliModelTest.xiaoshoujiesuanbaobiaoTest -->
+      <class name="xianshangdingdanModelTest.tuihuoshenqingTest">
+        <methods>
+          <include name="kehuliebiaoo"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- xianshangdingdanModelTest.tuihuoshenqingTest -->
+      <class name="caiwuguanliModelTest.xiaoshoutuihuobaobiaoTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="kehuliebiaoo"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- caiwuguanliModelTest.xiaoshoutuihuobaobiaoTest -->
+      <class name="xitongguanliModelTest.gongsixinxiguanliTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- xitongguanliModelTest.gongsixinxiguanliTest -->
+      <class name="kehuguanliModelTest.xinzenghuiyuanTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- kehuguanliModelTest.xinzenghuiyuanTest -->
+      <class name="caigouModelTest.huobucaigoudanTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- caigouModelTest.huobucaigoudanTest -->
+      <class name="shangpinguanliModelTest.gebishangpinkucunTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- shangpinguanliModelTest.gebishangpinkucunTest -->
+      <class name="caigouModelTest.xinjiancaigoudanTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- caigouModelTest.xinjiancaigoudanTest -->
+      <class name="caigouModelTest.shangpinrukuModelTest.caigoutuihuochukuTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- caigouModelTest.shangpinrukuModelTest.caigoutuihuochukuTest -->
+      <class name="caiwuguanliModelTest.weijiesuandedingdanTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- caiwuguanliModelTest.weijiesuandedingdanTest -->
+      <class name="xitongguanliModelTest.kuaiheAppdianpuguanliTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="kehuliebiaoo"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- xitongguanliModelTest.kuaiheAppdianpuguanliTest -->
+      <class name="caigouModelTest.yiquerendecaigoudanTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="kehuliebiaoo"/>
+        </methods>
+      </class> <!-- caigouModelTest.yiquerendecaigoudanTest -->
+      <class name="caigouModelTest.shangpinrukuModelTest.caigoushouhuorukuTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- caigouModelTest.shangpinrukuModelTest.caigoushouhuorukuTest -->
+      <class name="kehuguanliModelTest.shanghuliebiaoTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- kehuguanliModelTest.shanghuliebiaoTest -->
+      <class name="xitongguanliModelTest.kuaiheAppruzhushenqingTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+          <include name="kehuliebiaoo"/>
+        </methods>
+      </class> <!-- xitongguanliModelTest.kuaiheAppruzhushenqingTest -->
+      <class name="shangpinguanliModelTest.ziyingshangpinguanliTest">
+        <methods>
+          <include name="kehuliebiaoo"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- shangpinguanliModelTest.ziyingshangpinguanliTest -->
+      <class name="xitongguanliModelTest.erweimaxinxiTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- xitongguanliModelTest.erweimaxinxiTest -->
+      <class name="xitongguanliModelTest.gonggaoliebiaoTest">
+        <methods>
+          <include name="kehuliebiaoo"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- xitongguanliModelTest.gonggaoliebiaoTest -->
+      <class name="caigouModelTest.yibiangengdecaigoudanTest">
+        <methods>
+          <include name="kehuliebiaoo"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- caigouModelTest.yibiangengdecaigoudanTest -->
+      <class name="xitongguanliModelTest.erweimalvlixinxiTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="kehuliebiaoo"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- xitongguanliModelTest.erweimalvlixinxiTest -->
+      <class name="mendiandingdanModelTest.tuihuorukuTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+          <include name="kehuliebiaoo"/>
+        </methods>
+      </class> <!-- mendiandingdanModelTest.tuihuorukuTest -->
+      <class name="shangpinguanliModelTest.diaobodanliebiaoTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="kehuliebiaoo"/>
+        </methods>
+      </class> <!-- shangpinguanliModelTest.diaobodanliebiaoTest -->
+      <class name="shangpinguanliModelTest.shangpinpandianTest">
+        <methods>
+          <include name="kehuliebiaoo"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- shangpinguanliModelTest.shangpinpandianTest -->
+      <class name="caigouModelTest.daishenhecaigoudanTest">
+        <methods>
+          <include name="kehuliebiaoo"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- caigouModelTest.daishenhecaigoudanTest -->
+      <class name="mendiandingdanModelTest.tuihuoshenheTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+          <include name="kehuliebiaoo"/>
+        </methods>
+      </class> <!-- mendiandingdanModelTest.tuihuoshenheTest -->
+      <class name="caigouModelTest.shangpinrukuModelTest.ziyingshangpinrukuTest">
+        <methods>
+          <include name="kehuliebiaoo"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- caigouModelTest.shangpinrukuModelTest.ziyingshangpinrukuTest -->
+      <class name="kehuguanliModelTest.xinzengshanghuTest">
+        <methods>
+          <include name="kehuliebiaoo"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- kehuguanliModelTest.xinzengshanghuTest -->
+      <class name="xianshangdingdanModelTest.pinglunguanliTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="kehuliebiaoo"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- xianshangdingdanModelTest.pinglunguanliTest -->
+      <class name="caigouModelTest.yiquxiaodecaigoudanTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="kehuliebiaoo"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- caigouModelTest.yiquxiaodecaigoudanTest -->
+      <class name="mendiandingdanModelTest.shoudanguanliTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- mendiandingdanModelTest.shoudanguanliTest -->
+      <class name="mendiandingdanModelTest.dingdanliebiaoTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- mendiandingdanModelTest.dingdanliebiaoTest -->
+      <class name="caiwuguanliModelTest.caigoutuihuobaobiaoTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="kehuliebiaoo"/>
+        </methods>
+      </class> <!-- caiwuguanliModelTest.caigoutuihuobaobiaoTest -->
+      <class name="shangpinguanliModelTest.kucuntongbuTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="kehuliebiaoo"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- shangpinguanliModelTest.kucuntongbuTest -->
+      <class name="xianshangdingdanModelTest.xianshangdingdanTest">
+        <methods>
+          <include name="xiadan"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- xianshangdingdanModelTest.xianshangdingdanTest -->
+      <class name="caiwuguanliModelTest.yijiesuandedingdanTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- caiwuguanliModelTest.yijiesuandedingdanTest -->
+      <class name="mendiandingdanModelTest.tuihuoshenqingTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="kehuliebiaoo"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- mendiandingdanModelTest.tuihuoshenqingTest -->
+      <class name="kehuguanliModelTest.zimendianliebiaoTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- kehuguanliModelTest.zimendianliebiaoTest -->
+      <class name="xitongguanliModelTest.quanxianguanliTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- xitongguanliModelTest.quanxianguanliTest -->
+      <class name="xitongguanliModelTest.zhanghaoguanliTest">
+        <methods>
+          <include name="kehuliebiaoo"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- xitongguanliModelTest.zhanghaoguanliTest -->
+      <class name="xianshangdingdanModelTest.tuihuoshenheTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="kehuliebiaoo"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- xianshangdingdanModelTest.tuihuoshenheTest -->
+      <class name="xitongguanliModelTest.APPkefudianhuaTest">
+        <methods>
+          <include name="kehuliebiaoo"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- xitongguanliModelTest.APPkefudianhuaTest -->
+      <class name="shangpinguanliModelTest.gebicangkushangpinTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- shangpinguanliModelTest.gebicangkushangpinTest -->
+      <class name="shangpinguanliModelTest.ziyingzizhishenqingTest">
+        <methods>
+          <include name="kehuliebiaoo"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- shangpinguanliModelTest.ziyingzizhishenqingTest -->
+      <class name="xianshangdingdanModelTest.peisongtaiTest">
+        <methods>
+          <include name="xiadan"/>
+          <include name="beforeTest"/>
+          <include name="aftertest"/>
+        </methods>
+      </class> <!-- xianshangdingdanModelTest.peisongtaiTest -->
+      <class name="shangpinguanliModelTest.xinjiantiaobodanTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+          <include name="kehuliebiaoo"/>
+        </methods>
+      </class> <!-- shangpinguanliModelTest.xinjiantiaobodanTest -->
+      <class name="caigouModelTest.wodejinhuodanTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- caigouModelTest.wodejinhuodanTest -->
+      <class name="caiwuguanliModelTest.xiaoshoulirunbaobiaoTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- caiwuguanliModelTest.xiaoshoulirunbaobiaoTest -->
+      <class name="caiwuguanliModelTest.xiaoshoufanliTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="kehuliebiaoo"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- caiwuguanliModelTest.xiaoshoufanliTest -->
+      <class name="caigouModelTest.shangpinrukuModelTest.feicaigourukuTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="kehuliebiaoo"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- caigouModelTest.shangpinrukuModelTest.feicaigourukuTest -->
+      <class name="xianshangdingdanModelTest.tuihuorukuTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="kehuliebiaoo"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- xianshangdingdanModelTest.tuihuorukuTest -->
+      <class name="caiwuguanliModelTest.xiaoshoutongjiTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- caiwuguanliModelTest.xiaoshoutongjiTest -->
+      <class name="kehuguanliModelTest.huiyuanliebiaoTest">
+        <methods>
+          <include name="kehuliebiaoo"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- kehuguanliModelTest.huiyuanliebiaoTest -->
+      <class name="shangpinguanliModelTest.kucunliushuichaxunTest">
+        <methods>
+          <include name="kehuliebiaoo"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- shangpinguanliModelTest.kucunliushuichaxunTest -->
+    </classes>
+  </test> <!-- C:/�û�/18217/workspace/WebDriverq(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
